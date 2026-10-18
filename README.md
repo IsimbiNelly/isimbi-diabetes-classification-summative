@@ -6,8 +6,8 @@ Author: Isimbi Nelly Assoumpta
 
 ## Links
 - Google Drive (raw dataset zip, saved models, W&B logs): (https://drive.google.com/drive/folders/12PAfjZ8g_ynu3QIyrv6pwaOFz8rt78iS?usp=sharing)
-- Video presentation: (paste video link)
-- Report: submitted as a PDF on the course site
+- Video presentation: ((https://youtu.be/jdc9BHjgtxg))
+- Report: submitted as a PDF on Canvas
 
 ## What this project does
 I predict whether a person has diabetes from 21 survey answers about health and lifestyle. I compare traditional machine learning (scikit-learn) with deep learning (TensorFlow/Keras, using tf.data) in 9 experiments (plus one variant), log every run with Weights & Biases in offline mode, and evaluate the two best models on a held-out test set.
